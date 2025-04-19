@@ -1,15 +1,16 @@
 
-# Mr Low's Marking Assistant v2.0
+# Mr Low's Marking Assistant v2.0 (Complete)
 
-Includes:
-- Semantic scoring
-- P1–P4 structured mark scheme
-- Override tagging with teacher logic
-- Single and batch input modes
-- Score export with override logs
+This version includes:
+- Semantic scoring logic
+- Structured mark scheme entry (P1–P4)
+- Override tagging interface
+- Score recalculation
+- Batch and single-response input
+- Exportable scoring results
 
 Deployment:
-1. Upload to GitHub
-2. Link to Streamlit Cloud
-3. Set `app.py` as entry point
-4. Click Deploy
+1. Upload this to a private GitHub repo.
+2. Link the repo on Streamlit Cloud.
+3. Set 'app.py' as your entry point.
+4. Click Deploy to run your assistant.
