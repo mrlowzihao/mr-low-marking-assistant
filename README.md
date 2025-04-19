@@ -1,10 +1,12 @@
 
-# Mr Low's Marking Assistant v2.0.1
+# Mr Low's Marking Assistant v2.0.1 (Complete)
 
-Includes:
-- Manual entry interface for P1–P4 with AND/OR logic and weights
+Features:
+- Full structured mark scheme input (P1–P4)
+- AND/OR logic per point
 - NULLIFY and PENALTY fields
-- Upload option for advanced users
-- Usability-focused improvements for non-programmers
+- Student response input (manual or Excel)
+- Semantic scoring placeholder with confidence and override
+- Export scoring simulation
 
-Deploy to Streamlit Cloud as before, using app.py as the entry point.
+Deploy using Streamlit Cloud.
