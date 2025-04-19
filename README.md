@@ -1,15 +1,15 @@
 
-# Mr Low's Marking Assistant
+# Mr Low's Marking Assistant v2.0
 
-This is a Streamlit app to semi-automatically mark student science responses using semantic matching.
+Includes:
+- Semantic scoring
+- P1–P4 structured mark scheme
+- Override tagging with teacher logic
+- Single and batch input modes
+- Score export with override logs
 
-## How to Run
-
-1. Make sure Python is installed.
-2. Open Terminal and navigate to this folder.
-3. Install dependencies:
-   pip install -r requirements.txt
-4. Run the app:
-   streamlit run app.py
-
-Upload your mark scheme in the text box and an Excel file containing student answers with a column named 'Answer_Text'.
+Deployment:
+1. Upload to GitHub
+2. Link to Streamlit Cloud
+3. Set `app.py` as entry point
+4. Click Deploy
